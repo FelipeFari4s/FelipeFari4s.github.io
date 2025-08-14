@@ -222,6 +222,12 @@ main .Sobre{
     background-color: #030303;
     width: 500px;
     height: 200px;
+    margin-bottom: 10px;
+}
+
+.foto-projeto{
+    width: 500px;
+    height: 200px;
 }
 
 .roxo{
